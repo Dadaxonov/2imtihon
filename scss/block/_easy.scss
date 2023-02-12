@@ -78,3 +78,12 @@
         width: 328px;
     }
 }
+
+@media screen and (max-width:310px) {
+    .easy__img{
+        width: 280px;
+    }
+    .easy__content {
+        width: 280px;
+    }
+}

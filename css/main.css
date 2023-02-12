@@ -1,3 +1,7 @@
+@font-face {
+  font-family: "DM Seraf Display";
+  src: url(../fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf);
+}
 html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -279,12 +283,12 @@ body {
 }
 @media screen and (max-width: 450px) {
   .hero__input {
-    max-width: 327px;
-    padding: 15px 140px 15px 27px;
+    max-width: 300px;
+    padding: 15px 117px 15px 27px;
   }
   .hero__mobil-btn {
     display: inline-block;
-    padding: 15px 100px 15px 100px;
+    padding: 15px 85px 15px 85px;
   }
   .hero__img img {
     max-width: 125px;
@@ -467,6 +471,14 @@ body {
     width: 328px;
   }
 }
+@media screen and (max-width: 310px) {
+  .easy__img {
+    width: 280px;
+  }
+  .easy__content {
+    width: 280px;
+  }
+}
 #simple {
   background-repeat: no-repeat;
   background-image: url("");
@@ -552,6 +564,10 @@ body {
 @media screen and (max-width: 600px) {
   #simple {
     padding-top: 40px;
+  }
+  .simple__img img {
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
   }
 }
 .cards__container {
@@ -639,6 +655,11 @@ body {
   }
   .cards__container {
     padding-top: 50px;
+  }
+}
+@media screen and (max-width: 330px) {
+  .cards__card {
+    width: 280px;
   }
 }
 .ready__container {
