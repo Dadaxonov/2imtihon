@@ -1,0 +1,32 @@
+.ready__container{
+    padding-top: 96px;
+    padding-bottom: 96px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ready__title{
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.369231px;
+    color: #36536B;
+}
+
+.ready__btn{
+    position: absolute;
+    right: 0;
+    border: none;
+}
+
+
+@media screen and (max-width:900px) {
+    .ready__container{
+        flex-direction: column;
+        text-align: center;
+    }
+    .ready__title{
+        padding-bottom: 40px;
+    }
+}

@@ -1,0 +1,47 @@
+<svg width="28" height="17" viewBox="0 0 28 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="28" height="17" fill="#EDF3F8"/>
+<g id="Mobile - Home" clip-path="url(#clip0_0_1)">
+<rect width="375" height="4187" transform="translate(-323 -51)" fill="#EDF3F8"/>
+<g id="Bitmap" opacity="0.15">
+<circle id="Mask" cx="-135" cy="-211" r="390" fill="#36536B"/>
+<circle id="Mask Copy" cx="-135" cy="-211" r="390" fill="#36536B"/>
+<mask id="mask0_0_1" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-525" y="-601" width="780" height="780">
+<circle id="Mask Copy_2" cx="-135" cy="-211" r="390" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_1)">
+</g>
+</g>
+<g id="Group 2">
+<g id="Group">
+<rect id="Rectangle" width="28" height="3" fill="#36536B"/>
+<rect id="Rectangle Copy" y="7" width="28" height="3" fill="#36536B"/>
+<rect id="Rectangle Copy 2" y="14" width="28" height="3" fill="#36536B"/>
+</g>
+</g>
+<g id="telphone-mobile">
+<g id="Group 2_2">
+<g id="iPhone-X-Mockup">
+<g id="phone">
+<g id="body" filter="url(#filter0_d_0_1)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M-181.697 59.2734H-89.207C-80.3367 59.2734 -73.1459 66.1064 -73.1459 74.5353V283.465C-73.1459 291.894 -80.3367 298.727 -89.207 298.727H-181.697C-190.567 298.727 -197.758 291.894 -197.758 283.465V74.5353C-197.758 66.1064 -190.567 59.2734 -181.697 59.2734Z" fill="#213648"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-252.758" y="4.27344" width="284.612" height="399.453" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="25" dy="25"/>
+<feGaussianBlur stdDeviation="40"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.212302 0 0 0 0 0.32521 0 0 0 0 0.419299 0 0 0 0.300727 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="375" height="4187" fill="white" transform="translate(-323 -51)"/>
+</clipPath>
+</defs>
+</svg>
