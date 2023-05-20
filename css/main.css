@@ -775,8 +775,6 @@ body {
         -ms-flex-direction: column;
             flex-direction: column;
   }
-}
-@media screen and (max-width: 444px) {
   .footer__nav-list {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
